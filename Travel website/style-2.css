@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+body{
+    margin: 30px;
+    /* background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-medical-background-illustration-picture-image_960710.jpg); */
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEzetVIHEqWWdvbHzxtFubdCo0bA3zLgUJklpNuxMZIA&usqp=CAU&ec=48600112);
+    background-size: cover;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    width: 420px;
+    height: 50%;
+}
+
+.nav-left-1{
+    margin-left: 15px;
+    float: left;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.941);
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-center{
+    margin-left: 640px;
+    text-decoration: none;
+    color: rgb(7, 78, 78);
+    font-size: larger;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.nav-center:hover{
+    color: rgb(16, 32, 45);
+    text-decoration: underline;
+}
+
+.nav-right-3{
+    float: right;
+    text-decoration: none;
+    color: rgba(13, 6, 6, 0.941);
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.nav-right-2{
+    float: right;
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.941);
+    font-size: large;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+
+.nav-right-1{
+    float: right;
+    margin-right: 20px;
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.941);
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+
+div
+{
+    margin-top: 30px;
+    text-align: center;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+    padding: 140px;
+    /* display: flex; */
+    /* align-items: center; */
+    justify-content: center;
+    height: 500px;
+    width:30%;
+    font-size: large;
+    font-weight: 700;
+    font-family: 'Poppins', sans-serif;
+}
+.one-1
+{    
+    float: left; 
+}
+.two-1
+{
+    background-image: url(bangalore-1.png);
+    background-size: cover;
+    float: right;
+}
+
+.one-2
+{    
+    float: left; 
+    background-image: url(hyderabad.png);
+    background-size: cover;
+}
+
+.bangalore{
+    background-color: rgba(240, 248, 255, 0.082);
+    border-radius: 20%;
+    width: 70px;
+    height: 50px;
+    border-color: rgba(155, 230, 255, 0.792);
+}
+
+.bangalore:hover{
+    background-color: rgba(138, 226, 255, 0.83);
+    transform: scale(1.25);
+}
+
+.two-2
+{ 
+    float: right;
+}
+
+
+.left-2{
+    float: left;
+}
+
+.right-2{
+    float: right;
+}
+
+.center-2{
+    margin-left: 530px;
+}
